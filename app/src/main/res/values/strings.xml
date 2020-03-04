@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Hanbook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Podział administracyjny Polski</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="settings_text_size">Rozmiar teksta</string>
+    <string name="settings_text_name">Ustawienia rozmiaru teksta</string>
+    <string name="for_text_content_image">Image</string>
+
+
+    <string name="button_start">START</string>
+    <string name="text_logo">Lista miast w Polsce</string>
+
+    <!-- start text activity_main_drawer -->
+    <string name="name_menu_1">Dolnośląskie</string>
+    <string name="name_menu_2">Kujawsko-pomorskie</string>
+    <string name="name_menu_3">Lubelskie</string>
+    <string name="name_menu_4">Lubuskie</string>
+    <string name="name_menu_5">Łódzkie</string>
+    <string name="name_menu_6">Małopolskie</string>
+    <string name="name_menu_7">Mazowieckie</string>
+    <string name="name_menu_8">Opolskie</string>
+    <string name="name_menu_9">Podkarpackie</string>
+    <string name="name_menu_10">Podlaskie</string>
+    <string name="name_menu_11">Pomorskie</string>
+    <string name="name_menu_12">Śląskie</string>
+    <string name="name_menu_13">Świętokrzyskie</string>
+    <string name="name_menu_14">Warmińsko-mazurskie</string>
+    <string name="name_menu_15">Wielkopolskie</string>
+    <string name="name_menu_16">Zachodniopomorskie</string>
+    <!-- end text activity_main_drawer -->
+
+    <!-- start text activity_main_drawer -->
+    <!-- end text activity_main_drawer -->
+
+    <!-- start text for first_array -->
+    <string name="menu_1_text_1">Wrocław i (łac. Vratislavia lub Wratislavia lub Budorgis, niem. Breslau Breslau i, dś. Brassel, cz. Vratislav, węg. Boroszló) – miasto na prawach powiatu w południowo-zachodniej Polsce, siedziba władz województwa dolnośląskiego i powiatu wrocławskiego.
+        Położone w Europie Środkowej, na Nizinie Śląskiej, nad Odrą i czterema jej dopływami. Jest historyczną stolicą Dolnego Śląska, a także całego Śląska.
+Jest głównym miastem aglomeracji wrocławskiej, a także największym miastem leżącym na Ziemiach Odzyskanych. Czwarte pod względem liczby ludności miasto w Polsce – 641 607 mieszkańców, piąte pod względem powierzchni – 292,82 km².
+Miasto było stolicą księstwa wrocławskiego, siedzibą władz pruskiej prowincji Śląsk i rejencji wrocławskiej. Od 28 czerwca 1946 stolica województwa wrocławskiego. Od 1 stycznia 1999 stolica województwa dolnośląskiego, należy do Unii Metropolii Polskich i Eurocities.
+W rankingu opublikowanym przez Globalization and World Cities Research Network, Wrocław został sklasyfikowany w X kategorii (Gamma –) miast o znaczeniu globalnym.
+Wrocław został sklasyfikowany w pierwszej setce miast świata w rankingu firmy doradczej Mercer „Najlepsze miasta do życia” w 2015, 2016, 2017 i 2019, a także w pierwszej setce najbardziej inteligentnych miast na świecie (smart city) w raporcie IESE Cities in Motion Index w 2017 i 2019.
+        W roku 2016 był Europejską Stolicą Kultury, a od roku 2019 jest Miastem Literatury UNESCO.
+    </string>
+    <string name="menu_1_text_2">Wałbrzych (niem. Waldenburg, śl-niem. Walmbrig, Walmbrich, cz. Valdenburk, Valbřich) – miasto na prawach powiatu[2] na południowym zachodzie Polski, w województwie dolnośląskim nad Pełcznicą. Miasto leży na Pogórzu Zachodniosudeckim i Sudetach Środkowych w pasmie Gór Wałbrzyskich. Historycznie na Dolnym Śląsku.
+Siedziba powiatu wałbrzyskiego i główne miasto aglomeracji wałbrzyskiej. Dawna siedziba władz województwa wałbrzyskiego.Wałbrzych jest ośrodkiem przemysłowym, akademickim i naukowym Polskiej Akademii Nauk, miastem o funkcjach przemysłowo-handlowo-usługowych z rozwijającymi się funkcjami ośrodka turystycznego. Dawniej bardzo ważnym i potężnym ośrodkiem przemysłowym Dolnego Śląska.
+    Położenie
+        Według danych z 31 grudnia 2010 roku powierzchnia miasta wynosiła 84,70 km²[3].
+        Wałbrzych leży na Pogórzu Zachodniosudeckim i w Sudetach Środkowych. Północna część miasta położona jest na Pogórzu Wałbrzyskim, a południowa w Górach Wałbrzyskich i Kotlinie Wałbrzyskiej.
+        Rozciągłość na osi wschód-zachód wynosi 12 km, a z północy na południe miasta – 22 km[potrzebny przypis]. Wałbrzych, którego granice administracyjne przebiegają miejscami naturalnymi zboczami, grzbietami gór i czasem opierają się na potokach górskich, osiąga swój najwyższy punkt na Borowej – 853 m n.p.m.Najniższym punktem jest dolina Pełcznicy – 315 m n.p.m.[potrzebny przypis].
+        Wałbrzych graniczy z 4 miastami: Boguszów-Gorce, Szczawno-Zdrój (na zachodzie), Jedlina-Zdrój (na południowym wschodzie), Świebodzice (na północy) oraz 4 gminami: Mieroszów, Walim, Stare Bogaczowice, Świdnica.
+        W latach 1975–1998 miasto było stolicą województwa wałbrzyskiego. Od 1999 roku wchodzi w skład województwa dolnośląskiego.
+        W latach 1999–2002 Wałbrzych miał status miasta na prawach powiatu, a w latach 2003–2012 miasto wchodziło w skład powiatu wałbrzyskiego[4]. Decyzją Rady Ministrów, od 1 stycznia 2013 prawa powiatu zostały miastu przywrócone[2].
+    </string>
+    <string name="menu_1_text_3">Legnica (dawniej Lignica, cz. Lehnice, niem. Liegnitz) – miasto na prawach powiatu w Polsce, w środkowej części województwa dolnośląskiego, w większości na Równinie Legnickiej, położone nad rzekami: Kaczawą (lewy dopływ Odry) i wpadającą do niej Czarną Wodą.
+Legnica uzyskała lokację miejską przed 1252 rokiem[3]. W latach 1809–1945 Legnica była stolicą rejencji legnickiej w pruskiej prowincji Śląsk. Od 1 czerwca 1975 r. do 31 grudnia 1998 miasto było stolicą województwa legnickiego. Od 1992 r. stolica diecezji legnickiej kościoła rzymskokatolickiego. Od 1999 roku siedziba władz ziemskiego powiatu legnickiego.
+Legnica, według stanu na dzień 30 czerwca 2019, liczy 99 486 mieszkańców i jest 3. co do wielkości (po Wrocławiu i Wałbrzychu) miastem w województwie[4]. Stanowi również najdalej wysunięty na południe i największy ośrodek miejski Legnicko-Głogowskiego Okręgu Miedziowego.
+Legnica stanowi ośrodek LGOM, znajdują się w niej zakłady należące do KGHM Polska Miedź, Legnicka Specjalna Strefa Ekonomiczna oraz Legnicki Park Technologiczny[5].
+Legnica jest członkiem Związku Miast Polskich.
+</string>
+    <string name="menu_1_text_4">Jelenia Góra (wymowa i, łac. Cervimontium, Mons Cervi, niem. Hirschberg im Riesengebirge, cz. Jelení Hora, dawniej Hiršberk, Hornšperk) – miasto na prawach powiatu w południowo-zachodniej Polsce, w województwie dolnośląskim, w śródgórskiej Kotlinie Jeleniogórskiej, nad rzeką Bóbr. Miasto jest również siedzibą powiatu jeleniogórskiego, Zarządu Karkonoskiego Parku Narodowego oraz polską stolicą Euroregionu Nysa.
+        Historyczne miasto leży na Dolnym Śląsku. Jelenia Góra uzyskała lokację miejską przed 1281 rokiem[2]. Jelenia Góra była stolicą województwa jeleniogórskiego w latach 1975–1998. Obecnie ma status miasta na prawach powiatu.
+        Jelenia Góra liczy 80 325 mieszkańców i jest czwartym pod względem liczby ludności (po Wrocławiu, Wałbrzychu i Legnicy) miastem w województwie dolnośląskim. Miasto razem z 18 okolicznymi gminami podpisało w dniu 6 maja 2015 porozumienie na podstawie którego powołano Aglomerację Jeleniogórską liczącą 209 000 mieszkańców[3].</string>
+    <!-- end text for first_array -->
+
+    <!-- start text for second_array -->
+    <string name="menu_2_text_1">Bydgoszcz (łac. Bidgostia[4], niem. Bromberg) – miasto na prawach powiatu w północnej Polsce, siedziba wojewody i jednostek mu podporządkowanych oraz największe miasto województwa kujawsko-pomorskiego[5]. Położone na styku czterech makroregionów Pojezierzy Południowobałtyckich, nad rzeką Brdą i Kanałem Bydgoskim, od wschodu graniczy z Wisłą, która poprzez Przełom Fordoński zwraca się ku Morzu Bałtyckiemu.
+        Bydgoszcz jest jednym z największych miast w Polsce, 8. miejsce pod względem liczby ludności (około 350 tysięcy mieszkańców).
+        Duży ośrodek przemysłu, handlu i logistyki oraz węzeł drogowy, kolejowy i żeglugi śródlądowej. Na terenie miasta jest zlokalizowany Międzynarodowy Port Lotniczy im. Ignacego Jana Paderewskiego oraz port rzeczny. Bydgoszcz jest jednym z głównych krajowych ośrodków branży informatycznej oraz usług dla biznesu Business Process Outsourcing/Share Service Center[6]. W Bydgoskim Parku Przemysłowo-Technologicznym działa Pomorska Specjalna Strefa Ekonomiczna[7].
+        Bydgoszcz to także ośrodek akademicki, naukowy i kulturalny. W 15 szkołach wyższych studiuje ok. 35 tys. osób[8]. Działają m.in.: opera, filharmonia, teatry, kina, muzea, galerie sztuki, orkiestry i zespoły muzyczne, rocznie odbywa się ok. 100 przeglądów i festiwali kulturalnych. Atrakcyjność turystyczną Bydgoszczy oprócz zabytków podkreśla oryginalne nabrzeże od strony rzek i kanałów, Wyspa Młyńska oraz bogactwo architektury z okresu belle epoque. Od 2010 światowe witryny turystyczne polecają Bydgoszcz wśród grona 10 najlepszych celów podróży w Polsce[9][10][11][12][13]. W mieście zlokalizowany jest duży garnizon wojskowy oraz siedziby większości instytucji NATO obecnych w Polsce[14]. Bydgoszcz jest także siedzibą diecezji kościoła rzymskokatolickiego, członkiem Unii Metropolii Polskich, Eurocities, Stowarzyszenia Miast Króla Kazimierza Wielkiego, siedzibą 8 konsulatów honorowych.
+        Bydgoszcz wraz z powiatem bydgoskim i otaczającymi gminami tworzy aglomerację (Bydgoski Obszar Funkcjonalny), zamieszkałą przez ok. 600 tys. osób. Miasto wyróżniają m.in. Bydgoski Węzeł Wodny oraz największy w Polsce Leśny Park Kultury i Wypoczynku „Myślęcinek”. Otaczają je duże kompleksy leśne: Puszcza Bydgoska od południa i Bory Tucholskie od północy. Z uwagi na dogodne warunki naturalne i szkoleniowe (Brda, tor regatowy, infrastruktura wodna, Bydgostia i inne kluby) miasto uchodzi za „stolicę polskiego wioślarstwa”[15][16] Od 1928 sportowcy bydgoscy (głównie wioślarze i kajakarze) zdobyli 29 medali, co stanowi 10% wszystkich medali zdobytych na letnich olimpiadach przez Polaków. Od 1999 odbywa się w Bydgoszczy szereg międzynarodowych imprez sportowych, których bazę stanowią m.in. stadion im. Zdzisława Krzyszkowiaka oraz hala sportowo-widowiskowa Łuczniczka.
+        Miasto królewskie lokowane w 1346 roku położone było w XVI wieku w województwie inowrocławskim[17]. W XIX wieku Bydgoszcz była siedzibą władz departamentu bydgoskiego, rejencji bydgoskiej, a od 1945 województwa bydgoskiego. Patronami miasta są biskupi: św. Marcin i św. Mikołaj. Świętem miasta jest 19 kwietnia, dla upamiętnienia nadania Bydgoszczy praw miejskich w 1346[18]. Historyczne centrum miasta (Stary Rynek) znajduje się dokładnie na 18. południku długości geograficznej wschodniej.
+    </string>
+    <string name="menu_2_text_2">Toruń i (niem. Thorn, łac. Thorunia, Torunium) – miasto na prawach powiatu w północnej Polsce, siedziba sejmiku, zarządu i marszałka województwa oraz jednostek im podporządkowanych[3]. Jest również jednym z miast centralnych Bydgosko-Toruńskiego Obszaru Funkcjonalnego[4]. Stolica diecezji toruńskiej[5]. Drugie co do wielkości miasto w województwie kujawsko-pomorskim[6]. Położone jest nad Wisłą i Drwęcą. Jego prawobrzeżna część leży na Pomorzu, zaś lewobrzeżna znajduje się na Kujawach[7].Toruń, z liczbą 201 798 mieszkańców, zajmuje 16. miejsce w Polsce (stan 30 czerwca 2019 roku)[8]. Jest dużym ośrodkiem gospodarczym i handlowym oraz ważnym węzłem drogowym i kolejowym. Pod Toruniem działa Pomorska Specjalna Strefa Ekonomiczna[9]. Toruń to również ośrodek akademicki, naukowy, kulturalny i turystyczny[10]. Na największej w mieście uczelni,
+        Uniwersytecie Mikołaja Kopernika w 2017 roku studiowało blisko 20 tys. studentów[11]. W mieście działa orkiestra symfoniczna oraz teatry, kina, liczne muzea i galerie sztuki. W ciągu miesiąca w Toruniu odbywa się średnio sto różnego rodzaju imprez kulturalnych, poczynając od festiwali, koncertów, wystaw, spektakli teatralnych, przeglądów poetyckich i fotograficznych, a na plenerowych pokazach historycznych kończąc[12].
+        Toruń jest także siedzibą Garnizonu Toruń, orkiestry wojskowej i kilku jednostek wojskowych[13]. Znajduje się tu 6 konsulatów honorowych[13].
+        W Toruniu odbywa się szereg krajowych i międzynarodowych imprez sportowych, których bazę stanowią m.in. Motoarena Toruń im. Mariana Rosego, lodowisko Tor-Tor im. Józefa Stogowskiego i Arena Toruń, na której w 2021 roku odbędą się 36. Halowe Mistrzostwa Europy w Lekkoatletyce[14].
+        Toruń jest jednym z najstarszych miast Polski (prawa miejskie uzyskał w 1232 roku[15]). W czasach Rzeczypospolitej Obojga Narodów Toruń był jednym z najbogatszych i zarazem jednym z czterech największych miast Królestwa Polskiego[16], miastem królewskim i hanzeatyckim, które uzyskało w 1365 roku prawo składu[17]. Miastem posiadającym autonomiczne uprawnienia polityczne, w tym m.in. prawo do czynnego uczestnictwa w akcie wyboru króla[18]. Toruń to miejsce urodzenia Mikołaja Kopernika[19].
+        W 1997 roku Zespół Staromiejski został wpisany na Listę Światowego Dziedzictwa Kulturowego UNESCO[20]. Patronem Torunia jest św. Jan Chrzciciel, a święto miasta obchodzone jest 24 czerwca[21].
+    </string>
+    <string name="menu_2_text_3">Włocławek (łac. Vladislavia, niem. Leslau[a]) – miasto w centralnej Polsce, na prawach powiatu. Trzecie co do wielkości miasto w województwie kujawsko-pomorskim, położone nad Wisłą, przy ujściu Zgłowiączki. Jest siedzibą powiatu włocławskiego i historyczną stolicą Kujaw[3][4][5]. Należy do najstarszych miast w Polsce. Jest jednym z największych ośrodków administracyjnych i gospodarczych w regionie, z dobrze rozwiniętą infrastrukturą kulturalną i sportową. Zaletą miasta jest położenie w centralnej części kraju, przez którą przebiega droga krajowa nr 91 oraz linia kolejowa nr 18. Niedaleko miasta przebiega również autostrada A1, z którą miasto skomunikowane jest przez dwa węzły autostradowe[6]. 15 km od granicy miasta znajduje się trzeci węzeł autostradowy (Kowal). Przez Włocławek przebiega międzynarodowa droga wodna E40 (Morze Bałtyckie-Morze Czarne)[7]. Miasto jest siedzibą kurii diecezji włocławskiej.
+        Według danych z 30 czerwca 2019 roku populacja Włocławka wynosiła 110 287 mieszkańców[8].
+        Miasto biskupów włocławskich, położone było w 1785 roku w powiecie brzeskokujawskim województwa brzeskokujawskiego[9]. W latach 1975–1998 miasto było stolicą województwa włocławskiego.</string>
+    <string name="menu_2_text_4">Grudziądz i (łac. Graudentum, Graudentium[2][3], niem. Graudenz) – miasto na prawach powiatu w województwie kujawsko-pomorskim położone na prawym brzegu Wisły.
+    </string>
+    <!-- end text for second_array -->
+
+    <!-- start text for third_array -->
+    <string name="menu_3_text_1">Lublin (łac. Lublinum) – miasto na prawach powiatu we wschodniej Polsce, stolica województwa lubelskiego i centralny ośrodek aglomeracji lubelskiej. Dziewiąte co do wielkości populacji miasto w Polsce, drugie w Małopolsce (339 811 mieszkańców na koniec 2018 roku). Pod względem powierzchni szesnaste (147 km²).
+        Położone na Wyżynie Lubelskiej nad Bystrzycą, na dwóch odmiennych obszarach: zachodnim, o urozmaiconej rzeźbie terenu, z licznymi wąwozami, dolinami, wzgórzami oraz wierzchowinami, oraz wschodnim, płaskim. Historycznie Lublin ulokowany był nieopodal granicy Małopolski z Rusią Czerwoną, współcześnie jest położony w odległości ok. 170 km od stolicy Polski i ok. 100 km od przejścia granicznego z Ukrainą.
+        Osada handlowa, położona na szlaku prowadzącym z okolic Morza Czarnego, istniała w tym miejscu od VI w. Od X do XV w. Lublin należał do jednostki administracyjnej, której centrum był Sandomierz. W I Rzeczypospolitej był ważnym ośrodkiem administracyjnym, handlowym i kulturalnym. Od połowy XVII w. i w XVIII w. miasto podupadło i zubożało. W wyniku III rozbioru znalazło się w zaborze austriackim, następnie kolejno: w Księstwie Warszawskim i Królestwie Polskim. W 3. ćwierci XIX w. Lublin, włączony
+        Koleją Nadwiślańską do rosyjskiej sieci kolejowej, szybko rozrósł się i nabrał charakteru przemysłowego. Zmienił się także jego kształt urbanistyczny. W pierwszej i drugiej wojnie światowej padł ofiarą gospodarki rabunkowej i Holokaustu. W okresie PRL nastąpił gwałtowny rozwój Lublina. W tym czasie ludność wzrosła ponad trzykrotnie. Umocnił się akademicki charakter miasta. Zbudowano szereg zakładów przemysłowych, wzniesiono nowe dzielnice mieszkaniowe.
+        Od 2004 przeprowadzane są liczne inwestycje z funduszy Unii Europejskiej. Miasto rozwija się jako ośrodek nauki, kultury, turystyki, sportu i rekreacji, a także usług i przemysłu. Umacnia się jako węzeł transportowy: posiada ekspresową obwodnicę w ciągu planowanej Via Carpathia oraz port lotniczy. Lublin jest członkiem Unii Metropolii Polskich, siedzibą instytucji samorządowych i państwowych, konsulatów, brygady litewsko-polsko-ukraińskiej oraz archidiecezji i metropolii Kościoła katolickiego.
+    </string>
+    <string name="menu_3_text_2">Zamość (łac. Zamoscia, ukr. Замостя, ros. Замость (Замостье), jid. ‏זאמאשטש‎) – miasto na prawach powiatu w Polsce w południowej części województwa lubelskiego, siedziba władz powiatu zamojskiego i gminy Zamość. Jest jednym z większych ośrodków kulturalnych, edukacyjnych i turystycznych województwa, a zwłaszcza Zamojszczyzny.
+        Za sprawą unikalnego zespołu architektoniczno-urbanistycznego Starego Miasta bywa nazywany „perłą renesansu”, „miastem arkad” i „Padwą północy”[2][3]. Pod względem liczby ludności zajmuje w województwie 2. miejsce (63 511 mieszkańców), natomiast pod względem powierzchni plasuje się na 10. miejscu. W 1992 r. zamojskie Stare Miasto zostało wpisane na Listę Światowego Dziedzictwa UNESCO.
+        Zamość leży na historycznej Rusi Czerwonej, w dawnej ziemi chełmskiej[4]. Prywatne miasto szlacheckie, założone w oparciu o prawo lokacyjne w 1580 roku, położone było w XVI wieku w województwie ruskim[5].
+    </string>
+    <string name="menu_3_text_3">Chełm (biał., ukr., ros. Холм Chołm, niem. Cholm) – miasto na prawach powiatu we wschodniej Polsce, w województwie lubelskim. Leży 42 km od granicy z Białorusią i 27 km od granicy z Ukrainą w pobliżu przejścia granicznego w Dorohusku. Leży nad rzeką Uherką, lewym dopływem Bugu, jest trzecim co do liczby ludności miastem w województwie.
+        Chełm położony jest na terenie historycznej Rusi Czerwonej. Miasto królewskie lokowane w 1392 roku, do czasu rozbiorów położone w województwie ruskim[2]. Należało do starostwa chełmskiego w 1570 roku[3]. Chełm uzyskał prawo składu w 1541 roku[4]. Miasto rządowe Królestwa Kongresowego, położone było w 1827 roku w powiecie chełmskim, obwodzie krasnostawskim województwa lubelskiego[5]. Stolica historycznej ziemi chełmskiej, guberni chełmskiej, województwa chełmskiego 1975–1998 i kilkakrotnie powiatu.
+        Miasto wyróżnia się bogatą historią dawnego styku trzech kultur: polskiej, ruskiej i żydowskiej.
+        Według danych z 30 czerwca 2019 Chełm w granicach administracyjnych liczył 62 331 mieszkańców.
+    </string>
+    <string name="menu_3_text_4">Biała Podlaska – miasto na prawach powiatu we wschodniej Polsce, w województwie lubelskim, siedziba powiatu bialskiego i gminy Biała Podlaska. Drugie co do wielkości miasto we współczesnej Polsce na ziemiach, które w okresie od 1569 do 1795 w ramach Rzeczypospolitej Obojga Narodów wchodziły w skład Wielkiego Księstwa Litewskiego.
+        Biała Podlaska uzyskała lokację miejską przed 1498 rokiem[2]. Miasto magnackie położone było w końcu XVIII wieku w hrabstwie bialskim w powiecie brzeskolitewskim województwa brzeskolitewskiego[3]. Miasto prywatne Królestwa Kongresowego, położone było w 1827 roku w powiecie bialskim, obwodzie bialskim województwa podlaskiego[4].
+    </string>
+    <!-- end text for third_array -->
+
+    <!-- start text for fourth_array -->
+    <string name="menu_4_text_1">Zielona Góra (wymowa i; łac. Thalloris, Prasia Elysiorum[3], niem. Grünberg in Schlesien, cz. Zelená Hora, potocznie również Winny Gród) – miasto na prawach powiatu w zachodniej Polsce, największe miasto woj. lubuskiego, siedziba organów samorządu województwa, marszałka i zarządu województwa lubuskiego i Sejmiku Województwa Lubuskiego oraz jednostek im podporządkowanych oraz starosty powiatu zielonogórskiego, stolica diecezji zielonogórsko-gorzowskiej. Razem z Sulechowem i Nową Solą tworzy tzw. Lubuskie Trójmiasto. Należy do Związku Miast Polskich. Z dniem 1 stycznia 2015 roku powiększyła się o obszar gminy Zielona Góra[4][5].
+        Według danych z 2019 miasto miało 140 874 mieszkańców, co lokuje je na 24. pozycji w kraju pod względem liczby ludności[6].
+    </string>
+    <string name="menu_4_text_2">Gorzów Wielkopolski (niem. Landsberg an der Warthe) – miasto na prawach powiatu w północno-zachodniej Polsce, w województwie lubuskim, siedziba wojewody lubuskiego oraz zespolonej administracji rządowej na terenie województwa lubuskiego. Gorzów Wielkopolski położony jest nad Wartą.
+        Gorzów Wielkopolski wraz z 24 gminami i 5 powiatami województwa lubuskiego oraz 4 gminami i 1 powiatem województwa zachodniopomorskiego tworzy Aglomerację Gorzowską zamieszkałą przez ponad 400 000 mieszkańców[3].
+        Według danych z 2017 miasto miało 124 295 mieszkańców[4], co lokuje je na 29. pozycji w kraju pod względem liczby ludności[5].
+    </string>
+    <!-- end text for fourth_array -->
+
+    <!-- start text for fifth_array -->
+    <string name="menu_5_text_1">Łódź i (jid. ‏לאָדזש‎, niem. Lodz lub Lodsch; w latach 1940–1945 Litzmannstadt, ros. Лодзь) – miasto na prawach powiatu w środkowej Polsce, a także siedziba władz województwa łódzkiego, powiatu łódzkiego wschodniego oraz gminy Nowosolna, przejściowa siedziba władz państwowych w 1945 roku[5].
+        Ośrodek akademicki (6 uczelni publicznych oraz 22 niepubliczne), kulturalny i przemysłowy. Przed przemianami polityczno-gospodarczymi w 1989 r. centrum przemysłu włókienniczego i filmowego.
+        Łódź jest trzecim miastem w Polsce pod względem liczby ludności (682 679; po Warszawie i Krakowie) i czwartym pod względem powierzchni (293,25 km²; po Warszawie, Krakowie i Szczecinie)[2][1].
+        Miasto należy do Unii Metropolii Polskich[6] i Związku Miast Polskich[7], Związku Powiatów Polskich[8], a także do stowarzyszenia Eurocities[9] oraz Stowarzyszenia Zdrowych Miast Polskich[10].
+    </string>
+    <string name="menu_5_text_2">Piotrków Trybunalski – miasto na prawach powiatu w centralnej Polsce.
+        Piotrków był miastem królewskim[2] w starostwie piotrkowskim w powiecie piotrkowskim województwa sieradzkiego w końcu XVI wieku[3]. Dopełnienie nazwy o przymiotnik Trybunalski nastąpiło po II wojnie światowej[4]. W latach 1975–1998 miasto było stolicą województwa piotrkowskiego.
+        Drugie pod względem wielkości miasto w województwie łódzkim i 48. w Polsce. Według danych z 31 grudnia 2018 miasto ma 72 211 mieszkańców[5].
+    </string>
+    <string name="menu_5_text_3">Pabianice – miasto w województwie łódzkim, siedziba powiatu pabianickiego. Drugie co do liczby mieszkańców miasto aglomeracji łódzkiej. Pabianice należą do Związku Miast Polskich. Pod względem liczby ludności są trzecim (po Łodzi i Piotrkowie Trybunalskim) miastem w województwie łódzkim a 59. w Polsce. Pod względem powierzchni miasto znajduje się na 9. pozycji w województwie łódzkim a 150. w Polsce. Były miastem duchownym[2] kapituły katedralnej krakowskiej w powiecie szadkowskim województwa sieradzkiego w końcu XVI wieku[3].
+        Według oficjalnych danych GUS z 30 czerwca 2019 roku miasto liczyło 64 988 mieszkańców[1].
+    </string>
+    <!-- end text for fifth_array -->
+
+
+    <!-- start text for sixth_array -->
+    <string name="menu_6_text_1">Kraków (łac. Cracovia, niem. Krakau, jid. ‏קראָקע Kroke‎) – miasto na prawach powiatu położone w południowej Polsce nad Wisłą, drugie co do liczby mieszkańców[1][5] i powierzchni miasto kraju[1], formalna stolica Polski do 1795 r. i miasto koronacyjne oraz nekropolia królów Polski, od 1000 r. nieprzerwanie stolica diecezji krakowskiej (jednej z pięciu w ówczesnej Polsce), a od 1925 archidiecezji i metropolii. Kraków uzyskał lokację miejską przed 1228 rokiem, ponowna lokacja Krakowa w 1257 r.[6], od odzyskania niepodległości w 1918 r. miasto wojewódzkie (od 1998 r. siedziba władz województwa małopolskiego), jest także centralnym ośrodkiem metropolitalnym aglomeracji krakowskiej i Krakowskiego Obszaru Metropolitalnego. Kraków uznawany jest za stolicę historycznej Małopolski. Leży na obszarze Bramy Krakowskiej, Niecki Nidziańskiej i Pogórza Zachodniobeskidzkiego.
+        W Krakowie znajdują się główne siedziby m.in.: Polskiej Akademii Umiejętności, Narodowego Centrum Nauki, Instytutu Nafty i Gazu – Państwowego Instytutu Badawczego, Instytutu Zootechniki – Państwowego Instytutu Badawczego, Krajowej Szkoły Sądownictwa i Prokuratury[7], dowództwa Sił Specjalnych RP będącego jednocześnie jednym z kilku dowództw sił specjalnych NATO, Centrum Operacji Lądowych – Dowództwa Komponentu Lądowego[10], Polskiego Związku Narciarskiego[11], Centrum Eksperckiego Kontrwywiadu NATO[12], Narodowe Centrum Radioterapii Hadronowej[13].
+        W mieście działają placówki kulturalne o znaczeniu i statusie narodowym, m.in. Narodowy Stary Teatr, Muzeum Narodowe, Panteon Narodowy[14], Archiwum Narodowe[15], Biblioteka Jagiellońska, Instytut Książki[16], Instytut Literatury[17], Centrum Operacji Specjalnych[18], Narodowe Centrum Rugby.
+        Miasto na prawach powiatu pełni funkcję centrum administracyjnego, kulturalnego, edukacyjnego, naukowego, gospodarczego, usługowego i turystycznego. Kraków jest drugim co do wielkości, po Warszawie, rynkiem nowoczesnej powierzchni biurowej[20] (ponad milion metrów kwadratowych powierzchni biurowej), a także jednym z kluczowych węzłów kolejowych w Polsce.
+    </string>
+    <string name="menu_6_text_2">Tarnów (wymowa i) – miasto w Polsce, na prawach powiatu, położone w województwie małopolskim. Leży przy ujściu Białej do Dunajca. Jest miastem centralnym aglomeracji tarnowskiej[3]. W mieście znajduje się siedziba powiatu tarnowskiego i diecezji tarnowskiej.
+        Miasto lokowane przez Spycimira herbu Leliwa, na podstawie dokumentu wystawionego przez kancelarię króla Władysława Łokietka z 7 marca 1330 roku. Zachował się historyczny zespół architektoniczno-urbanistyczny miasta. Tarnów zajmuje powierzchnię 72,38 km², którą zamieszkuje ponad 100 tysięcy mieszkańców.
+        Miasto jest ważnym ośrodkiem turystycznym, kulturalnym i gospodarczym w Małopolsce. Węzłem komunikacyjnym przy autostradzie A4 oraz linii kolejowej E 30. Na terenie osiedla Mościce znajduje się siedziba Grupy Azoty[4], największej grupy kapitałowej branży chemicznej w kraju oraz Międzynarodowe Centrum Bezpieczeństwa Chemicznego.
+        W mieście działa konsulat honorowy Ukrainy[7]. Tarnów jest członkiem Związku Miast Polskich[8].
+    </string>
+    <string name="menu_6_text_3">Nowy Sącz – miasto na prawach powiatu w województwie małopolskim, siedziba ziemskiego powiatu nowosądeckiego.
+        Trzecie pod względem liczby mieszkańców i piąte pod względem powierzchni miasto[2] w województwie małopolskim i największe miasto Beskidu Sądeckiego, stolica Sądecczyzny z racji tego, że jest to największe miasto w regionie.
+        Jedno z najstarszych miast w Małopolsce – lokowane 8 listopada 1292 roku jako miasto królewskie w ziemi krakowskiej[3].
+        31 grudnia 2017 roku miasto miało 84 041 mieszkańców[1].
+    </string>
+    <!-- end text for sixth_array -->
+
+    <string name="text_for_example_1">Litwo! Ojczyzno moja! Ty jesteś jak zdrowie. Nazywał się damom, starcom i trudno zaradzić wolał z wypukłym sklepienie całe wesoło,
+        lecz latem nic to mówiąc, że Hrabia chciał coś mówić, przepraszać, tylko się do tych imion spisem woźnemu jest obora. Dozoru tego nigdy nie mógł najprędzej,
+        niedzielne ubrani wysmukłą postać tylko się urodził dobrze, mój kus cap ! - odpowiedział Robak obojętnie Widać było, że go powitać. Dawno domu podobnych spraw wielkich,
+        wszystkie charty w spadku po rodzicach wziął tytuł markiza. Jakoż, kiedy karę na szabli, a on znowu w bieg chybkim był ruchawy od mężczyzn widziana więc i znowu fajt w
+        czamarce krakowskiej, z urzędu ten zamek stał patrząc, dumając wonnymi powiewami kwiatów oddychając oblicze aż cała izba nie wyszli witać, ale szerzej niż myśliwi młodzi
+        tak przekradł się kiedyś demokratą. Bo nie rozprawia o chwale i stajennym i każdemu powinną uczciwość wyrządzić. I starzy i zalety Ściągnęły wzrok sąsiadki, uważnej kobiety.
+        Zmierzyła jego poznać szlachcicowi bratu, Że nie stracił, a nam też same obicia z obcego klasztor przyszedł, i młodzieży. Za moich, panie, czasów podobne oczy, słowa nie jest
+        rzeczą małą a młodszej przysunąwszy z tych pagórków leśnych, do Alpów podniebnych ciskając grom taki, wstał zmieszany, chwilę nic nie wypuścił, aż do marszu! Pójdziem, czy cieszyć.
+        Tymczasem na złość Rejentowi, Że u tej znalazł podobne oczy, słowa nie dostrzegł, nazbyt rychło znikła ale nic nie korzystał dworze jak bazyliszek. asesor mniej pilni.
+        Tadeusz przyglądał się dziś z kilku dzieje chciano przeczyć chwały. Więc Tadeusz Telimenie, Asesor Krajczance a ja powiem śmiało grzeczność nie należy. Idąc z jego upadkiem domy
+        i krajów, tak zawsze i widać było wyłożyć koszt na jutro sam lat siedzi żadna. To rzekłszy, z uśmiechem, a młodszej przysunąwszy z krzykiem podróżnego ściskał i aby się ziemi.
+        Podróżny długo czekać! Nawet stary który ma albo sam król ją nudzi rzecz kończył: Wyczha! poszli, a zwierzę nie może nas hordą gorszą od tylu panów dworu uprawne dobrze na wsi
+        długo uczyć, ażeby nie miał wielką, i widok obław przypominał mu jego bok usiadła owa szczęśliwa gałka oznaczała. Inaczej bawiono się szczyci i wysoką jego poznać szlachcicowi
+        bratu, Że gościnna i przysłonił chciał wiedzieć, skąd są, z dom i rzekł: Muszę ja w pole i każdemu inna. Bo nie dostrzegł, nazbyt rychło znikła ale mur chędogi. Sterczały wkoło
+        sarnie i inni, więcej godni Wojewody względów doszli potem zaczęła rozmowę. Wracał z las wiąże w francuskiej gazecie. Podczaszyc, mimo równość, wziął czerstwość i zmniejsza. I
+        zląkł się, by wychowanie niczego nie chciałby do porządku wykli domowi i kończył nauki, końca doczekał nareszcie. Wbiega i ustawić co zacz? kto cię stracił. Dziś człowieka nie
+        staropolska, ani też same obicia z napisami: gdzie, kiedy się lata Śród takich pól malowanych zbożem rozmaitem wyzłacanych pszenicą, posrebrzanych żytem. Gdzie bursztynowy świerzop,
+        gryka jak drudzy i długo pracować potrzeba. Słońce, Jego robotnik, kiedy do gospody. Słudzy nie pyta bo tak zawsze daleko! Tak każe u wieczerzy na wielkim mieście miał przyjść
+        wkrótce sprawić ci wesele. Jest sława, a drugą do pocałowani i stanęły: tak zawsze ciekaw o palec. Wiedziałem, że przeszkadza kulturze, że w zamkowej sieni siadł przy jego ramiona
+        i stają mu z Francuzem gada na Tadeusz Telimenie, Asesor Krajczance a resztę rozdzielono między dwie twarze w każdej jest każda kochanka dziewicą. Tadeusz, na świadki pamiętam
+        czasy, kiedy się sprawa. My od chmielu tyki w głównym sądzie w ciąg powieści, pytań wykrzykników i z nich wzory zmieniano wiarę, mowę, prawa i smuci, i trudno było ogrodniczki.
+        Tylko co je w wiecznej wiośnie pachnące kwitną lasy. z latami przychodzi. Tadeusz, chociaż w jasełkach ukryte chłopięta. Biegła i w tabakierkę złotą Podkomorzy i konstytuować.
+        Ogłosił nam, kolego! lecz lekki. odgadniesz, że jacyś Francuzi wymowny zrobili wynalazek: iż ludzie są architektury. Choć pani ta tłuszcza. Bo nie policzę. Opuszczali rodziców i
+        swoją ważność zarazem poznaje. jak on może nas reformować cywilizować będzie jego pamięć spraw bernardyńskie. cóż te przenosiny? Pan świata wie, jak kochał pana Tadeusza zdani i
+        dziwniejsze od chmielu tyki w bliskiej wiosce na nim padnie. Dalej w kupie pstręk na brzegu niegdyś zarosłym pokrzywą był majstrem z Podkomorzyną obok srebrnych, od płaczącej matki
+        pod strażą. Dziś piękność widziana w miechu. Starzy na ambonie. Nauka dawną była, szło o naszym wojsku wie Jegomość? Nic a ubiór powiększa i on w pół kroku Tak każe u niego ze
+        śmiechu a zwierzę nie ma dotąd pierwsze na Tadeusza, widać, że ją bardzo dobitnie malował. Był dawniej było wyłożyć koszt na miejscu pustym oczy podniósł, i rzekł: Wielmożni
+        Szlachta, Bracia Dobrodzieje! Forum myśliwskiem tylko się Hreczecha, a najstraszniej pan Sędzia tuż na ostrym końcu śród myśliwych siedział słuchał rozmowy grzeczne z drzewa,
+        lecz na prawo, koziołka, z panem Hrabią sporu. I tak na czterech ławach cztery ich lekkości woły właśnie i bagnami skradał się zdołał. Prostym ludziom wokanda zda się i już robił
+        projekt, że przeszkadza kulturze, że on Pana Boga. Jeślim tyle na sądy graniczne dla gości przeprosić i Bernatowicze, Kupść, Gedymin i mały z jutrzenką napotka się o mniej zgorszenia. Ach, ja sam na wielkim szczęściem, dwakroć kichnął Podkomorzy. Wiwat! - kanonada. Ruskie przysłowie: z jutrzenką napotka się nagle, stronnicy Sokół na polu szukała kogoś okiem, daleko,
+        na folwark dążył po deszczu żabki po francusku. Biegali wszyscy o nie! Więc Woźny cicho wszedł do folwarku nie bywa od króla Lecha Żaden za domem urządzał wieczerzę. on zmienił się sam głosem swoim przed nim leży Fedon i przymioty. Stąd droga co go wtenczas wszyscy słuchali w głównym sądzie w niemieckiej karecie. Sam Podczaszyc zapowiedział, że odgłos trąbki i
+        stąd się jak przystało drugich wiek, urodzenie, cnoty, obyczaje swe dzisiejsze
+        wypadki spotkanie się, że nas powrócisz cudem Gdy się od rana wiedział, że w bitwie, gdzie panieńskim rumieńcem dzięcielina pała a potem się jak szli na brzegu niegdyś zarosłym pokrzywą był legijonistą przynosił kości stare na Tadeusz przyglądał się Hreczecha, a my razem ja pamiętam czasy, kiedy karę na jutro sam oczu nie odrodził dobrze na reducie,
+        balu i dobra, które broniły Litwę murami żelaz przed trybunałem. Jedna ręka na dwory pańskie konia tuczy. Wojski na później.</string>
+    <string name="text_for_example_2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non odio euismod lacinia at quis risus sed vulputate odio. Accumsan sit amet nulla facilisi. In iaculis nunc sed augue lacus viverra vitae congue. Pharetra pharetra massa massa ultricies. Id donec ultrices tincidunt
+        arcu non. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla. Ullamcorper eget nulla facilisi etiam dignissim. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Lectus urna duis convallis convallis tellus id interdum velit laoreet. Morbi tristique senectus et netus. Enim eu turpis egestas pretium aenean pharetra magna.
+        Tincidunt dui ut ornare lectus sit amet est. Quis ipsum suspendisse ultrices gravida dictum fusce ut. Commodo quis imperdiet massa tincidunt. Vitae justo eget magna fermentum iaculis eu non diam phasellus.
+        Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Enim nulla aliquet porttitor lacus luctus accumsan tortor. Neque sodales ut etiam sit amet nisl purus in mollis. Nisl tincidunt eget nullam non nisi est sit amet.
+        Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet. Libero enim sed faucibus turpis in eu mi bibendum. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl. Lacus sed turpis tincidunt id aliquet risus feugiat. Purus in massa tempor nec feugiat. Praesent tristique magna sit amet purus gravida quis blandit. Sagittis nisl rhoncus mattis rhoncus urna.
+        Diam sit amet nisl suscipit adipiscing bibendum est. Ullamcorper malesuada proin libero nunc. Ut tellus elementum sagittis vitae et leo duis. Facilisis mauris sit amet massa vitae tortor. Sed sed risus pretium quam vulputate dignissim suspendisse. Malesuada fames ac turpis egestas maecenas pharetra. Amet nisl purus in mollis nunc sed id. Congue nisi vitae suscipit tellus mauris.
+        Eget aliquet nibh praesent tristique magna sit amet purus.
+        Ullamcorper eget nulla facilisi etiam. Nisl vel pretium lectus quam. Gravida arcu ac tortor dignissim convallis aenean et tortor at. Ut tortor pretium viverra suspendisse potenti nullam ac. Metus dictum at tempor commodo ullamcorper a lacus vestibulum sed. Tellus in metus vulputate eu scelerisque felis imperdiet. Enim sit amet venenatis urna cursus eget nunc scelerisque.
+        Pretium quam vulputate dignissim suspendisse. Nulla facilisi nullam vehicula ipsum a.
+        Elementum integer enim neque volutpat ac tincidunt vitae semper quis. Proin fermentum leo vel orci porta. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula.
+        Facilisis mauris sit amet massa vitae tortor condimentum. Vitae suscipit tellus mauris a diam maecenas sed. Feugiat nisl pretium fusce id velit ut tortor. Lacus vel facilisis volutpat est velit egestas dui. Volutpat sed cras ornare arcu. Blandit cursus risus at ultrices mi tempus. Varius sit amet mattis vulputate enim.
+        Non pulvinar neque laoreet suspendisse interdum consectetur libero id.
+        Amet luctus venenatis lectus magna fringilla. Vestibulum rhoncus est pellentesque elit. Malesuada fames ac turpis egestas integer eget aliquet nibh praesent. Facilisis magna etiam tempor orci eu lobortis elementum nibh tellus. Massa massa ultricies mi quis hendrerit dolor magna. Nunc sed augue lacus viverra vitae congue eu consequat.
+        Sagittis eu volutpat odio facilisis mauris sit amet. Vitae nunc sed velit dignissim sodales ut eu sem.
+        Faucibus et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. Ornare arcu odio ut sem. Quisque id diam vel quam elementum pulvinar. Est ultricies integer quis auctor elit sed. A lacus vestibulum sed arcu non odio euismod lacinia. Arcu risus quis varius quam quisque id diam. Tellus at urna condimentum mattis. Phasellus egestas tellus rutrum tellus. Hac habitasse platea dictumst quisque sagittis purus. Sapien eget mi proin sed libero enim.
+        Sollicitudin ac orci phasellus egestas tellus rutrum tellus. Varius morbi enim nunc faucibus a pellentesque sit.
+        Mattis nunc sed blandit libero volutpat sed cras. Eu scelerisque felis imperdiet proin. Egestas purus viverra accumsan in nisl nisi scelerisque eu. Eget mauris pharetra et ultrices neque. Sed odio morbi quis commodo odio aenean sed adipiscing. Justo nec ultrices dui sapien eget mi proin sed. Pellentesque elit eget gravida cum sociis natoque.
+        Adipiscing commodo elit at imperdiet dui accumsan. Senectus et netus et malesuada. Nec ullamcorper sit amet risus. Amet nulla facilisi morbi tempus iaculis urna. Gravida cum sociis
+        natoque penatibus et. Sagittis vitae et leo duis ut. Orci eu lobortis elementum nibh. Facilisis volutpat est velit egestas dui. Eget sit amet tellus cras.
+        Feugiat in ante metus dictum. Consectetur adipiscing elit ut aliquam purus. Magnis dis parturient montes nascetur. Tincidunt tortor aliquam nulla facilisi cras. Sit amet risus nullam eget felis eget nunc. Ut sem nulla pharetra diam sit. Nunc pulvinar sapien et ligula ullamcorper malesuada. Sit amet massa vitae tortor condimentum lacinia quis vel.
+        Enim lobortis scelerisque fermentum dui faucibus in. Sodales neque sodales ut etiam sit amet nisl purus. Bibendum ut tristique et egestas. Ornare aenean euismod elementum nisi.
+        Eget velit aliquet sagittis id consectetur purus. Facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris. Sapien eget mi proin sed libero. Nec tincidunt praesent semper feugiat nibh. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices. Mauris ultrices eros in cursus turpis massa tincidunt.
+        Molestie a iaculis at erat pellentesque adipiscing commodo. Feugiat in ante metus dictum. Justo donec enim diam vulputate ut pharetra sit amet aliquam. Varius morbi enim nunc faucibus a pellentesque. Mattis pellentesque id nibh tortor. Phasellus egestas tellus rutrum tellus pellentesque. Maecenas pharetra convallis posuere morbi. Sed augue lacus viverra vitae congue eu. Orci phasellus egestas tellus rutrum. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Velit dignissim sodales ut eu sem integer vitae.
+        Sapien faucibus et molestie ac feugiat sed. Egestas tellus rutrum tellus pellentesque eu tincidunt.
+        Amet massa vitae tortor condimentum. Ac tincidunt vitae semper quis. Volutpat ac tincidunt vitae semper quis lectus. Velit scelerisque in dictum non consectetur. Pellentesque elit eget gravida cum sociis. Sit amet justo donec enim. Diam donec adipiscing tristique risus nec feugiat. Vitae et leo duis ut diam quam nulla.
+        Vulputate ut pharetra sit amet aliquam id diam. Id aliquet risus feugiat in ante metus. Convallis convallis tellus id interdum velit laoreet id. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt.
+        Lorem donec massa sapien faucibus et molestie ac feugiat sed. Diam volutpat commodo sed egestas.
+        Arcu ac tortor dignissim convallis aenean. Blandit libero volutpat sed cras ornare arcu dui.
+        Diam ut venenatis tellus in metus vulputate eu. Vivamus arcu felis bibendum ut tristique et egestas quis. Enim tortor at auctor urna nunc id cursus metus. Sit amet est placerat in egestas erat imperdiet. Convallis tellus id interdum velit laoreet id donec ultrices. Est ante in nibh mauris cursus mattis. Sed blandit libero volutpat sed cras ornare arcu dui vivamus.
+        Eget gravida cum sociis natoque penatibus et magnis dis. Morbi tristique senectus et netus et malesuada fames ac turpis. Sollicitudin tempor id eu nisl nunc mi ipsum. Metus vulputate eu scelerisque felis imperdiet.
+        Nibh cras pulvinar mattis nunc sed blandit. Sed cras ornare arcu dui vivamus arcu felis bibendum.
+        Elit pellentesque habitant morbi tristique senectus et netus. Bibendum est ultricies integer quis auctor elit sed. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Id interdum velit laoreet id donec ultrices tincidunt arcu. Vel facilisis volutpat est velit egestas dui id ornare arcu.
+    </string>
+</resources>

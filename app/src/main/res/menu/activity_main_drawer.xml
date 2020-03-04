@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/id_menu_first"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_1" />
+        <item
+            android:id="@+id/id_menu_second"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_2" />
+        <item
+            android:id="@+id/id_menu_third"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_3" />
+        <item
+            android:id="@+id/id_menu_fourth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_4" />
+        <item
+            android:id="@+id/id_menu_fifth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_5" />
+        <item
+            android:id="@+id/id_menu_sixth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_6" />
+        <item
+            android:id="@+id/id_menu_seventh"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_7" />
+        <item
+            android:id="@+id/id_menu_eighth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_8" />
+        <item
+            android:id="@+id/id_menu_ninth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_9" />
+        <item
+            android:id="@+id/id_menu_tenth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_10" />
+        <item
+            android:id="@+id/id_menu_eleventh"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_11" />
+        <item
+            android:id="@+id/id_menu_twelfth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_12" />
+        <item
+            android:id="@+id/id_menu_thirteenth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_13" />
+        <item
+            android:id="@+id/id_menu_fourteenth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_14" />
+        <item
+            android:id="@+id/id_menu_fifteenth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_15" />
+        <item
+            android:id="@+id/id_menu_sixteenth"
+            android:icon="@android:drawable/ic_input_add"
+            android:title="@string/name_menu_16" />
+
+
+
+    </group>
+
+
+
+</menu>

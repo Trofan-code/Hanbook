@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <string-array name="first_array">
+        <item>Wrocław</item>
+        <item>Wałbrzych</item>
+        <item>Legnica</item>
+        <item>Jelenia Góra</item>
+    </string-array>
+    <string-array name="second_array">
+       <item>Bydgoszcz</item>
+       <item>Toruń</item>
+       <item>Włocławek</item>
+       <item>Grudziądz</item>
+   </string-array>
+   <string-array name="third_array">
+       <item>Lublin</item>
+       <item>Zamość</item>
+       <item>Chełm</item>
+       <item>Biała Podlaska</item>
+   </string-array>
+   <string-array name="fourth_array">
+       <item>Zielona Góra</item>
+       <item>Gorzów Wielkopolski</item>
+   </string-array>
+   <string-array name="fifth_array">
+       <item>Łódź</item>
+       <item>Piotrków Trybunalski</item>
+       <item>Pabianice</item>
+   </string-array>
+   <string-array name="sixth_array">
+       <item>Kraków</item>
+       <item>Tarnów</item>
+       <item>Nowy Sącz</item>
+   </string-array>
+    <string-array name="for_example_menu_array">
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+        <item>Nazwa</item>
+    </string-array>
+
+   <!-- For Settings-->
+    <string-array name="settings_text_size_array">
+        <item>Duży</item>
+        <item>Średni</item>
+        <item>Mały</item>
+    </string-array>
+
+
+
+</resources>
