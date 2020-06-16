@@ -5,5 +5,8 @@
     <color name="black">#080C0B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="redgrey">#968080</color>
+    <color name="red">#E20B0B</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="green">#307E33</color>
 
 </resources>

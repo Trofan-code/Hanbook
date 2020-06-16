@@ -7,12 +7,24 @@
         <item>Legnica</item>
         <item>Jelenia Góra</item>
     </string-array>
+    <string-array name="first_array_eng">
+        <item>ENGWrocław</item>
+        <item>ENGWałbrzych</item>
+        <item>ENGLegnica</item>
+        <item>ENGJelenia Góra</item>
+    </string-array>
     <string-array name="second_array">
        <item>Bydgoszcz</item>
        <item>Toruń</item>
        <item>Włocławek</item>
        <item>Grudziądz</item>
    </string-array>
+    <string-array name="second_array_eng">
+        <item>sdgsdBydgoszcz</item>
+        <item>sdgsdgToruń</item>
+        <item>sdgsdgWłocławek</item>
+        <item>sdgsdgGrudziądz</item>
+    </string-array>
    <string-array name="third_array">
        <item>Lublin</item>
        <item>Zamość</item>
